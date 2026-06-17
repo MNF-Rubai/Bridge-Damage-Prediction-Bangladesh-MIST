@@ -23,5 +23,5 @@ The Python source code (`.py`) and the trained Machine Learning model file (`.pk
 
 The GUI executable (`.exe`) file is available at the following link:
 
-**[Insert Download Link Here]**
+**Soon to be uploaded**
 
